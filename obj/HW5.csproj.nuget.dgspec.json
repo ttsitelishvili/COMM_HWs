@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5\\HW5.csproj": {}
+    "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5\\HW5.csproj": {
+    "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5\\HW5.csproj",
+        "projectUniqueName": "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5.csproj",
         "projectName": "HW5",
-        "projectPath": "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5\\HW5.csproj",
+        "projectPath": "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5.csproj",
         "packagesPath": "C:\\Users\\tsite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\HW5\\obj\\",
+        "outputPath": "C:\\Users\\tsite\\Desktop\\COMM_HWs\\COMM_HW5\\HW5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
