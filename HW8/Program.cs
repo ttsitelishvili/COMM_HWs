@@ -5,6 +5,7 @@
 
         Console.WriteLine($"The number of numbers in between 5 and 100 which are squares is {Task1(5, 100, 2)}");
         Console.WriteLine($"The amunt of pairs is {Task2("ABCABBBACQ")}");
+        Console.WriteLine($"The longet suffix is {Task3}");
 
 
 
@@ -43,28 +44,36 @@ c. n - ხარისხი რომელშიც უნდა ავიყ�
         }
     }
 
-    public static string Task3(string[] words)
+    public static string Task3(string word1, string word2)
     {
         /* დაწერეთ ფუნქცია რომელიც დააბრუნებს ყველა გრძელ საერთო
-ბოლოსართს ორ სტრინგს შორის AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
+ბოლოსართს ორ სტრინგს შორის */
+        string suffix = "";
+        for (int i = word2.Length - 1; i == 0; i-- )
+        {
+            for (int j = word1.Length - 1; j == 0; j--)
+            {
+                if (word1[j] == word2[i])
+                {
+                    suffix.Append(word1[j]);
+                    continue;
+                }
+                else break;
 
-        if (words == null || words.Length == 0)
-            return string.Empty;
+            }
 
-        // Find the minimum word length to avoid index out of range
-        int minLen = words.Min(w => w.Length);
 
-        // Check each suffix length from 1 to minLen
-        var longestSuffix = Enumerable.Range(1, minLen)
-            .Reverse()
-            .Select(len => words[0][^len..]) // Take suffix of length 'len' from the first word
-            .FirstOrDefault(suffix => words.All(w => w.EndsWith(suffix)));
-
-        return longestSuffix ?? string.Empty;
+        }
+        return suffix ?? "No suffix found";
     }
 
 
-    
+    public static void Task4()
+    {
+
+
+
+    }
 
 }
 

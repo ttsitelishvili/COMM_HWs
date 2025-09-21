@@ -13,3 +13,18 @@ C:\Users\Gstore\OneDrive\Desktop\COMM_HWs\COMM_HW8\HW8\HW8\obj\Debug\net8.0\HW8.
 C:\Users\Gstore\OneDrive\Desktop\COMM_HWs\COMM_HW8\HW8\HW8\obj\Debug\net8.0\HW8.genruntimeconfig.cache
 C:\Users\Gstore\OneDrive\Desktop\COMM_HWs\COMM_HW8\HW8\HW8\obj\Debug\net8.0\ref\HW8.dll
 C:\Users\Gstore\OneDrive\Desktop\COMM_HWs\COMM_HW8\HW8\HW8\obj\Debug\net8.0\HW8.sourcelink.json
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\bin\Debug\net8.0\HW8.exe
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\bin\Debug\net8.0\HW8.deps.json
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\bin\Debug\net8.0\HW8.runtimeconfig.json
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\bin\Debug\net8.0\HW8.dll
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\bin\Debug\net8.0\HW8.pdb
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.AssemblyInfoInputs.cache
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.AssemblyInfo.cs
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.csproj.CoreCompileInputs.cache
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.sourcelink.json
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.dll
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\refint\HW8.dll
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.pdb
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\HW8.genruntimeconfig.cache
+C:\Users\Gstore\source\repos\COMM_HWs\Pulled Repo\HW8\obj\Debug\net8.0\ref\HW8.dll
