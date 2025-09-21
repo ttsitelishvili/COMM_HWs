@@ -5,7 +5,7 @@
 
         Console.WriteLine($"The number of numbers in between 5 and 100 which are squares is {Task1(5, 100, 2)}");
         Console.WriteLine($"The amunt of pairs is {Task2("ABCABBBACQ")}");
-        Console.WriteLine($"The longet suffix is {Task3}");
+        Console.WriteLine($"The longet suffix is {Task3("tekla", "buedsekla")}");
 
 
 
