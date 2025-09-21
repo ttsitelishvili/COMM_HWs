@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gstore\\source\\repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj": {}
+    "C:\\Users\\Gstore\\Source\\Repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gstore\\source\\repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj": {
+    "C:\\Users\\Gstore\\Source\\Repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gstore\\source\\repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj",
+        "projectUniqueName": "C:\\Users\\Gstore\\Source\\Repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj",
         "projectName": "HW8",
-        "projectPath": "C:\\Users\\Gstore\\source\\repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj",
+        "projectPath": "C:\\Users\\Gstore\\Source\\Repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\HW8.csproj",
         "packagesPath": "C:\\Users\\Gstore\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gstore\\source\\repos\\COMM_HWs\\Pulled Repo\\HW8\\HW8\\obj\\",
         "projectStyle": "PackageReference",
